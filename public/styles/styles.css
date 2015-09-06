@@ -1,0 +1,83 @@
+body, html{
+	margin: 0;
+	width: 100%;
+}
+
+h1{
+	color: white;
+	display: inline;
+	text-align: center;
+	float: left;
+	margin-left: 1em;
+	margin-bottom: 1em;
+}
+
+p{
+	margin-top: 2em;
+	color: white;
+	display: inline;
+	clear: right;
+	float: right;
+}
+
+img{
+	height: 30em!important;
+	width: 100%;
+}
+
+.container{
+	background-color: green;
+  height: 28vh;
+  width: 100%;
+}
+
+.col-md-4{
+	background-color: white;
+	border: 1px solid black;
+	height: 28vh;
+} 
+
+.navbar {
+	background-color: #3C3B6D;
+	margin: 0;
+}
+
+.navbar-brand {
+    float: none;
+    padding: 5px;
+}
+.navbar-center {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+    height:100%;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+	margin-top: 1em;
+	margin-right: 1em;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: white;
+  margin-top: 2em;
+  margin-right: 1em;
+}
+
+.carousel-inner{
+	height: 50vh;
+	margin: 0;
+}
+
+.social-network{
+	background-color: #B22134;
+	 position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;
+   margin: 0; 
+}
